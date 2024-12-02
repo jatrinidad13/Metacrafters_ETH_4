@@ -21,9 +21,9 @@ The `DegenToken` contract is an ERC20 token integrated with a simple in-game ite
 ### Decimals: 0 (no fractional tokens)
 
 ### Predefined Game Items:
-- **Claymore**: Cost 15 Degen Tokens
-- **Vanguard**: Cost 30 Degen Tokens
-- **Divine Rapier**: Cost 75 Degen Tokens
+- **Claymore**: Cost 30 Degen Tokens
+- **Vanguard**: Cost 60 Degen Tokens
+- **Divine Rapier**: Cost 150 Degen Tokens
 
 ## Functions
 
